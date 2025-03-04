@@ -4,6 +4,8 @@
     "rootDir": "./src",
     "module": "NodeNext",
     "target": "ES6",
-    "strict": true
+    "strict": true, 
+    "allowImportingTsExtensions": true, 
+    "noEmit": true
   }
 }
